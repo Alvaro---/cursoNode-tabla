@@ -1,0 +1,19 @@
+{
+  "name": "02-basesnode",
+  "version": "1.0.0",
+  "description": "primera aplicacio del curso de udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=10"
+  },
+  "author": "Alvaro Mercado",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
